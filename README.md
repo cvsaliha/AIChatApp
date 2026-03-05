@@ -30,7 +30,7 @@ multiple personas, and persistent conversation history.
 ### Setup
 1. Clone the repo
 ```bash
-   git clone https://github.com/[yourusername]/AIChatApp.git
+   git clone https://github.com/cvsaliha/AIChatApp
 ```
 2. Create `APIConfig.swift` in the project
 ```swift
