@@ -4,7 +4,9 @@ A SwiftUI iOS chat app with real-time AI streaming responses,
 multiple personas, and persistent conversation history.
 
 ## 📱 Screenshots
-<!-- Add screenshots here after uploading to GitHub -->
+## 📱 Demo
+
+![App Demo](demo.gif)
 
 ## ✨ Features
 - 💬 Real-time streaming AI responses
