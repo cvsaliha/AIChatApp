@@ -1,0 +1,23 @@
+{
+  "images" : [
+    {
+      "filename" : "Cobalt Blue AI Chat Logo (1).png",
+      "idiom" : "universal",
+      "scale" : "1x"
+    },
+    {
+      "filename" : "Cobalt Blue AI Chat Logo (1) 1.png",
+      "idiom" : "universal",
+      "scale" : "2x"
+    },
+    {
+      "filename" : "Cobalt Blue AI Chat Logo (1) 2.png",
+      "idiom" : "universal",
+      "scale" : "3x"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}

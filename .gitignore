@@ -1,0 +1,19 @@
+//
+//  .gitignore
+//  AIChat
+//
+//  Created by Saliah CV on 05/03/2026.
+//
+
+# Xcode
+*.xcuserstate
+xcuserdata/
+DerivedData/
+*.moved-aside
+*.xccheckout
+
+# API Keys — never commit these
+APIConfig.swift
+
+# macOS
+.DS_Store
